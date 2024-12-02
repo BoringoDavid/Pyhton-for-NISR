@@ -1,0 +1,36 @@
+python for data analysis
+
+creating file and folder and locating it 
+
+from start:
+
+# this represent number of headings
+ for example if i want heading number 5 i will use #####
+
+for comment its triple stars *** and it works as block comments
+
+
+impot pandas:
+
+pandas: is used to import data frames and creation of tables
+
+ex: import pandas as pd  # 
+  
+import numpy
+numpy is used for making computation or calculations
+import numpy as np 
+
+
+import seaborn 
+
+seaborn  is used for data visualization in python notebook
+
+import seaborn as sns
+
+
+importing  maltiplotlib.pyplot
+
+this is currently used for making any kind of graph
+import maltplotlib.pyplot as plt
+
+
